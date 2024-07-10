@@ -1,0 +1,8 @@
+module.exports = {
+    LABORATORY: 'LABORATORY',
+    USER: 'USER',
+    LABORATORY_USER: 'USER',
+    DEVICE: 'DEVICE',
+    LOCAL_SERVER: 'LOCAL_SERVER',
+    CAMERA: 'CAMERA',
+}

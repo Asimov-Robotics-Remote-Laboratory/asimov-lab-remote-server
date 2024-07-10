@@ -1,0 +1,11 @@
+{
+  "serverPort": "80",
+  "mongoURI": "",
+  "jwtSecret": "",
+  "cryptoJSSecret": "",
+  "emailUser": "",
+  "emailPassword": "",
+  "emailSmtpService": "",
+  "emailSmtpHost": "",
+  "emailSmtpPort": 465
+}
